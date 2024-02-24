@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/aqua/static/css/main.0ed4cfc6.css",
+    "main.js": "/aqua/static/js/main.0152eb6a.js",
+    "static/js/453.68351596.chunk.js": "/aqua/static/js/453.68351596.chunk.js",
+    "static/media/PLANK___.TTF": "/aqua/static/media/PLANK___.024eece303998977a029.TTF",
+    "index.html": "/aqua/index.html",
+    "main.0ed4cfc6.css.map": "/aqua/static/css/main.0ed4cfc6.css.map",
+    "main.0152eb6a.js.map": "/aqua/static/js/main.0152eb6a.js.map",
+    "453.68351596.chunk.js.map": "/aqua/static/js/453.68351596.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ed4cfc6.css",
+    "static/js/main.0152eb6a.js"
+  ]
+}
